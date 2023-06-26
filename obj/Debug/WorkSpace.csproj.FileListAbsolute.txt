@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\bin\Debug\WorkSpace.exe.config
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\bin\Debug\WorkSpace.exe
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\bin\Debug\WorkSpace.pdb
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.Form1.resources
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.Properties.Resources.resources
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.GenerateResource.cache
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.exe
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.pdb
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\bin\Debug\WorkSpace.exe.manifest
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\bin\Debug\WorkSpace.application
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.SplashScreen.resources
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.TrustInfo.xml
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.exe.manifest
+F:\Visual Studio Projects\2019\PhynomiaOS\Others\WorkSpace\WorkSpace\obj\Debug\WorkSpace.application
